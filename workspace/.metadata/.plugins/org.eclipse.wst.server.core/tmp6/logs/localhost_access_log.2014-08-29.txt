@@ -1,0 +1,7 @@
+127.0.0.1 - - [29/Aug/2014:16:40:51 +0900] "GET / HTTP/1.1" 404 976
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:41:24 +0900] "GET /eclipse/definedroot/jerseymapped/defineduri/java15/bookstore HTTP/1.1" 500 9382
+127.0.0.1 - - [29/Aug/2014:16:44:57 +0900] "GET / HTTP/1.1" 404 976
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:45:13 +0900] "GET /eclipse/definedroot/jerseymapped/defineduri/java15/bookstore HTTP/1.1" 200 4018
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:45:17 +0900] "GET /eclipse/definedroot/images/TH160_9784774155395.jpg HTTP/1.1" 200 17912
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:45:26 +0900] "POST /eclipse/definedroot/jerseymapped/defineduri/java15/bookstore/addCart HTTP/1.1" 200 2850
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:46:49 +0900] "POST /eclipse/definedroot/jerseymapped/defineduri/java15/bookstore/clearCart HTTP/1.1" 200 1554

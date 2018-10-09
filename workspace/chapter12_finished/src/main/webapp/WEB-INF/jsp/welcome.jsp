@@ -1,0 +1,45 @@
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" isELIgnored="false"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Welcome</title>
+	<link type="text/css" rel="stylesheet" href="<c:url value="/bootstrap/css/bootstrap.min.css"/>"> 
+
+	<style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+	</style>
+</head>
+<body>
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">Java 15 Book</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="starter-template">
+			<h1>Chapter 12.</h1>
+			<p class="lead">
+				<!-- ここで Welcome message を表示してください -->
+				<c:out value="${it.message}" />
+			</p>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script type="text/javascript" src="<c:url value="/bootstrap/js/bootstrap.min.js"/>"></script>
+</body>
+</html>

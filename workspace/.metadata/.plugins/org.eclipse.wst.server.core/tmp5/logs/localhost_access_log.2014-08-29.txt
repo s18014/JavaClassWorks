@@ -1,0 +1,11 @@
+127.0.0.1 - - [29/Aug/2014:16:49:39 +0900] "GET / HTTP/1.1" 404 976
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:50:53 +0900] "GET /eclipse/definedroot/jerseymapped/defineduri/java15/bookstore HTTP/1.1" 200 4370
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:50:55 +0900] "GET /eclipse/definedroot/bootstrap/css/bootstrap.min.css;jsessionid=08E9B4824AE53B2D0F5864A03657A0C4 HTTP/1.1" 200 99961
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:50:55 +0900] "GET /eclipse/definedroot/images/TH160_9784774155395.jpg;jsessionid=08E9B4824AE53B2D0F5864A03657A0C4 HTTP/1.1" 200 17912
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:50:55 +0900] "GET /eclipse/definedroot/images/9784774139906.jpg;jsessionid=08E9B4824AE53B2D0F5864A03657A0C4 HTTP/1.1" 200 20402
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:50:56 +0900] "GET /eclipse/definedroot/bootstrap/js/bootstrap.min.js;jsessionid=08E9B4824AE53B2D0F5864A03657A0C4 HTTP/1.1" 200 29110
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:52:49 +0900] "GET /eclipse/definedroot/jerseymapped/defineduri/java15/bookstore HTTP/1.1" 200 4370
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:52:49 +0900] "GET /eclipse/definedroot/bootstrap/css/bootstrap.min.css;jsessionid=B86E3C56C87470DF92C63238DDC7C866 HTTP/1.1" 200 99961
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:52:49 +0900] "GET /eclipse/definedroot/images/9784774139906.jpg;jsessionid=B86E3C56C87470DF92C63238DDC7C866 HTTP/1.1" 200 20402
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:52:49 +0900] "GET /eclipse/definedroot/images/TH160_9784774155395.jpg;jsessionid=B86E3C56C87470DF92C63238DDC7C866 HTTP/1.1" 200 17912
+0:0:0:0:0:0:0:1 - - [29/Aug/2014:16:52:49 +0900] "GET /eclipse/definedroot/bootstrap/js/bootstrap.min.js;jsessionid=B86E3C56C87470DF92C63238DDC7C866 HTTP/1.1" 200 29110
