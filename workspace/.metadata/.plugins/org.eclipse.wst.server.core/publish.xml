@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<publish-info>
-  <server id="chapter14 server" path="publish4.dat"/>
-  <server id="chapter13 server" path="publish2.dat"/>
-  <server id="chapter14_finished server" path="publish1.dat"/>
-  <server id="chapter15 server" path="publish5.dat"/>
-  <server id="chapter12 server" path="publish0.dat"/>
-  <server id="chapter13_finished server" path="publish3.dat"/>
-</publish-info>
