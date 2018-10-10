@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/a. 注意 一度に複数の server を起動しないで下さい！-config" deployDir="wtpwebapps" hostname="localhost" id="a. 注意 一度に複数の server を起動しないで下さい！" name="a. 注意 一度に複数の server を起動しないで下さい！" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="0"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/chapter12 server-config" deployDir="wtpwebapps" hostname="localhost" id="chapter12 server" name="chapter12 server" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="chapter12::org.eclipse.jst.jee.server:chapter12::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/chapter12_finished server-config" deployDir="wtpwebapps" hostname="localhost" id="chapter12_finished server" name="chapter12_finished server" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="chapter12_finished::org.eclipse.jst.jee.server:chapter12_finished::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/chapter13 server-config" deployDir="wtpwebapps" hostname="localhost" id="chapter13 server" name="chapter13 server" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="chapter13::org.eclipse.jst.jee.server:chapter13::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/chapter13_finished server-config" deployDir="wtpwebapps" hostname="localhost" id="chapter13_finished server" name="chapter13_finished server" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="chapter13_finished::org.eclipse.jst.jee.server:chapter13_finished::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/chapter14 server-config" deployDir="wtpwebapps" hostname="localhost" id="chapter14 server" name="chapter14 server" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="chapter14::org.eclipse.jst.jee.server:chapter14::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/chapter14_finished server-config" deployDir="wtpwebapps" hostname="localhost" id="chapter14_finished server" name="chapter14_finished server" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="chapter14_finished::org.eclipse.jst.jee.server:chapter14_finished::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/chapter15 server-config" deployDir="wtpwebapps" hostname="localhost" id="chapter15 server" name="chapter15 server" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="chapter15::org.eclipse.jst.jee.server:chapter15::jst.web::2.5"/>
+  </server>
+</servers>
