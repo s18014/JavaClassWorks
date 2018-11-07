@@ -100,10 +100,8 @@ class Ex6{
 
     public void ex6_10(int [] a, int [] b){
         int minLen = Math.min(a.length, b.length);
-        int [] tmpA = new int [a.length];
-        int [] tmpB = new int [b.length];
-        System.arraycopy(a, 0, tmpA, 0, a.length);
-        System.arraycopy(b, 0, tmpB, 0, b.length);
+        int [] tmpA = a.clone();
+        int [] tmpB = b.clone();
         for (int i = 0; i < minLen; i++) {
             a[i] = tmpB[i];
             b[i] = tmpA[i];
